@@ -1,5 +1,5 @@
 import java.util.*;
-public class Dollar{
+public class Githubsession2{
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.print("The amount of cents you have= ");
